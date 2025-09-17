@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Furbanairship%2Fpadlocker-server.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Furbanairship%2Fpadlocker-server?ref=badge_shield)
+
 ================
 PadLocker Design
 ================
@@ -42,3 +44,7 @@ Server
   fifos
 - Upon automatic or manual approval, return the requested key to the client
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Furbanairship%2Fpadlocker-server.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Furbanairship%2Fpadlocker-server?ref=badge_large)
